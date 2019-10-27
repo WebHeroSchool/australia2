@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700|Teko:400,500,700&display=swap&subset=cyrillic');
+
+body {
+  color: red;
+  background: orange;
+  font-family: 'Teko', sans-serif;
+}
+ 
+h1 {
+   font-family: 'Lora', serif;
+}
